@@ -1,10 +1,11 @@
-# AIFFEL Campus Online 
+# AIFFEL Campus Online _ research
 
 ---
 
 ## 아이펠에서의 공부 기록
 
-* _환영합니다~~~_
+> 환영합니다~
+
 
 ---
 
