@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 
 
-* 반갑습니다~~
+* _환영합니다~~~_
 
 ---
 
