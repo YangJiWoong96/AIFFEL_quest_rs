@@ -1,5 +1,7 @@
 # AIFFEL Campus Online 
 
+* 반갑습니다~~
+
 ---
 
 ## 구조도
