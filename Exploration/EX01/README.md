@@ -10,8 +10,8 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
 
-<img src="./img/p01.png", height="100x", width="100px">
-<img src="./img/p02.png", height="100x", width="100px">
+<img src="/img/p01.png", height="100x", width="100px">
+<img src="/img/p02.png", height="100x", width="100px">
 사진을 참고하면, 코드 작성자는 LMS에서 제공하는 목표를 완수했음을 확인함
     
 - [v]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -22,7 +22,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         
-<img src="./img/p03.png", height="100x", width="100px">
+<img src="/img/p03.png", height="100x", width="100px">
 사진을 참고하면, 코드 작성자는 모델의 학습에 관련한 사항에 대하여, 절차 및 방법을 잘 정리하여 작성해였음
 
 - [v]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -32,7 +32,7 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-<img src="./img/p08.png", height="100x", width="100px">
+<img src="/img/p08.png", height="100x", width="100px">
 사진을 참고하면, 코드 작성자는 loss를 줄이기 위한 많은 고찰을 하였고, loss를 낮추기 위해 여러 시도를 진행하고 해당사항을 잘 정리하였음
         
 - [v]  **4. 회고를 잘 작성했나요?**
@@ -41,9 +41,9 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-<img src="./img/p04.png", height="100x", width="100px">
-<img src="./img/p05.png", height="100x", width="100px">
-<img src="./img/p06.png", height="100x", width="100px">
+<img src="/img/p04.png", height="100x", width="100px">
+<img src="/img/p05.png", height="100x", width="100px">
+<img src="/img/p06.png", height="100x", width="100px">
 사진을 참고하면, 코드 작성자는 프로젝트 진행에 대하여 지속적으로 고찰하였으며, 고찰한 내용에 대하여 자세히 작성하였음
         
 - [v]  **5. 코드가 간결하고 효율적인가요?**
