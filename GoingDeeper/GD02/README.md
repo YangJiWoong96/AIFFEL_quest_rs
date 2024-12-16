@@ -1,49 +1,64 @@
 # GD02
 
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : __양지웅__
+- 리뷰어 : __정우철__
 
 
 # PRT(Peer Review Template)
-- [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-    - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-        - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-    
-- [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
+- [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+    - TF-IDF 기반 추론 5,000개 단어
+    ![image](https://github.com/user-attachments/assets/393c15ee-ec5c-44c9-a571-448fce91f57f)
+      - Logistic Regression  
+    ![image](https://github.com/user-attachments/assets/73cd126c-7b3f-44f7-b062-e398cc01737f)
+      - Random Forest  
+    ![image](https://github.com/user-attachments/assets/1cd69dfb-822d-4c49-b3f5-1ba994b6cc35)
+      - SVM  
+    ![image](https://github.com/user-attachments/assets/8aa4cdbe-d5be-4a31-9d77-1cff42cf2cdf)  
+    - TF-IDF 기반 추론 10,000  개 단어
+      ![image](https://github.com/user-attachments/assets/1924763b-30db-4d7d-8901-2334436a6091)
+      - Logistic Regression  
+![image](https://github.com/user-attachments/assets/83afbdcf-74fc-4ca9-ab15-10b5d6ac68fd)
+      - Random Forest  
+![image](https://github.com/user-attachments/assets/89705cb2-7b6a-4bd3-9299-4757c281f865)
+      - SVM  
+![image](https://github.com/user-attachments/assets/e6d73498-18a5-4a01-aee8-ebc5b2b8fc4e)
+    - TF-IDF 기반 추론 모든 단어  
+![image](https://github.com/user-attachments/assets/46d8bf63-fd59-4526-a625-bdf7b2729353)
+      - Logistic Regression  
+![image](https://github.com/user-attachments/assets/4a256ce2-68af-455b-9528-e313f4cebed7)
+      - Random Forest  
+![image](https://github.com/user-attachments/assets/5f581892-74e9-4a1d-afd8-ebf6fc098330)
+      - SVM  
+![image](https://github.com/user-attachments/assets/35f71882-d3ba-4bdd-a1cd-623fc309632c)
+      - Voting  
+![image](https://github.com/user-attachments/assets/a89ad8ae-b0e9-4fcd-9d26-3b0087feb679)
+![download](https://github.com/user-attachments/assets/0aa8a7d2-df73-45d4-ba94-9d634a2bb15d)
+    - NN기반; 이중 LSTM  
+![image](https://github.com/user-attachments/assets/142c3879-9b89-4c64-8769-fe2dde691db4)
+![image](https://github.com/user-attachments/assets/4aa33827-597f-4719-9fd7-4b24d2583f01)
+
+- [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-    - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
-    - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
-    - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
-    - 주석을 보고 코드 이해가 잘 되었는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+    - LightGBM모델을 위한 하이퍼파라미터 세팅
+![image](https://github.com/user-attachments/assets/4aa56874-8172-4bf3-b10a-39453a8a0f2b)
+    - NN모델을 위한 데이터 전처리
+      ![image](https://github.com/user-attachments/assets/8a6be1c0-3c35-44ca-9be5-91f3cf6ea362)
+- 수치와 이유가 상세히 기록되어있습니다!
         
-- [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
+- [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
-    - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
-    - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
-    실험이 기록되어 있는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        
+      - LightGBM 모델을 사용한 추가실험
+![image](https://github.com/user-attachments/assets/607a19f4-d05b-40de-8050-5aa311001d58)
+![image](https://github.com/user-attachments/assets/0f0541cd-4905-49ea-a8cb-15d0621f9f5b)
+
 - [ ]  **4. 회고를 잘 작성했나요?**
-    - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
-    배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
-    - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
-    - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
-    - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
 
 # 회고(참고 링크 및 코드 개선)
 ```
-# 리뷰어의 회고를 작성합니다.
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+프로젝트의 모든 목표가 다 달성 되었네요! 중간중간에 전처리 부분이나 하이퍼파라미터 세팅에 들어간 코멘트들이 인상 깊습니다. 새로운 기법을 써주신 것도 눈에 띄네요! 고생 많으셨습니다!
 ```
 
-아니야
-
-나는 그렇게 생각안해.  나는 
